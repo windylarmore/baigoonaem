@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://toojieteth.iscor.me/sitemap.xml
